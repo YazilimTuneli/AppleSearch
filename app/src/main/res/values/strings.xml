@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Apple Api</string>
+    <string name="movie">Movie</string>
+    <string name="can_search">You can search</string>
+    <string name="couldnt_find">We couldn\'t find what you\'re looking for.</string>
+    <string-array name="switch_tab">
+        <item>movie</item>
+        <item>song</item>
+        <item>software</item>
+        <item>audiobook</item>
+    </string-array>
+
+    <string name="movies">movies</string>
+    <string name="music">music</string>
+    <string name="apps">apps</string>
+    <string name="books">books</string>
+</resources>
